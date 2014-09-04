@@ -1,6 +1,6 @@
-package com.ghonix.tmk.ui;
+package com.ghonix.u2694.ui;
 
-import com.ghonix.tmk.ui.debug.DebugAppContainer;
+import com.ghonix.u2694.ui.debug.DebugAppContainer;
 
 import javax.inject.Singleton;
 

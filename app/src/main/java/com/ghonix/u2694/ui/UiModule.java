@@ -1,4 +1,4 @@
-package com.ghonix.tmk.ui;
+package com.ghonix.u2694.ui;
 
 import javax.inject.Singleton;
 

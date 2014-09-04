@@ -1,4 +1,4 @@
-package com.ghonix.tmk;
+package com.ghonix.u2694;
 
 final class Modules {
     static Object[] list(U2694App app) {

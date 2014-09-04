@@ -1,4 +1,4 @@
-package com.ghonix.tmk.ui;
+package com.ghonix.u2694.ui;
 
 import android.app.Activity;
 import android.app.Application;

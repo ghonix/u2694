@@ -1,4 +1,4 @@
-package com.ghonix.tmk.ui;
+package com.ghonix.u2694.ui;
 
 import android.app.Activity;
 import android.app.Application;
@@ -8,8 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.ViewGroup;
 
-import com.ghonix.tmk.R;
-import com.ghonix.tmk.U2694App;
+import com.ghonix.u2694.R;
+import com.ghonix.u2694.U2694App;
 
 import javax.inject.Inject;
 

@@ -1,4 +1,4 @@
-package com.ghonix.tmk;
+package com.ghonix.u2694;
 
 import android.app.Application;
 import android.content.Context;

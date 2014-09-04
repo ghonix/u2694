@@ -1,8 +1,8 @@
-package com.ghonix.tmk;
+package com.ghonix.u2694;
 
 import android.app.Application;
 
-import com.ghonix.tmk.ui.UiModule;
+import com.ghonix.u2694.ui.UiModule;
 
 import javax.inject.Singleton;
 

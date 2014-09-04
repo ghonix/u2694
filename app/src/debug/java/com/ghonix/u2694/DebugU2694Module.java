@@ -1,6 +1,6 @@
-package com.ghonix.tmk;
+package com.ghonix.u2694;
 
-import com.ghonix.tmk.ui.DebugUiModule;
+import com.ghonix.u2694.ui.DebugUiModule;
 
 import dagger.Module;
 

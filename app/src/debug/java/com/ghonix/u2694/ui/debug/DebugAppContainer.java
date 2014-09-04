@@ -1,11 +1,11 @@
-package com.ghonix.tmk.ui.debug;
+package com.ghonix.u2694.ui.debug;
 
 import android.app.Activity;
 import android.app.Application;
 import android.view.ViewGroup;
 
-import com.ghonix.tmk.R;
-import com.ghonix.tmk.ui.AppContainer;
+import com.ghonix.u2694.R;
+import com.ghonix.u2694.ui.AppContainer;
 
 import javax.inject.Inject;
 
