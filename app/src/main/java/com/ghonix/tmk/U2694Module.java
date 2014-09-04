@@ -17,14 +17,14 @@ import dagger.Provides;
                 UiModule.class
         },
         injects = {
-                TmkApp.class
+                U2694App.class
         }
 )
-public class TmkModule {
+public class U2694Module {
 
-    private final TmkApp app;
+    private final U2694App app;
 
-    public TmkModule(TmkApp app) {
+    public U2694Module(U2694App app) {
         this.app = app;
     }
 

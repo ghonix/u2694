@@ -9,7 +9,7 @@ import android.view.MenuItem;
 import android.view.ViewGroup;
 
 import com.ghonix.tmk.R;
-import com.ghonix.tmk.TmkApp;
+import com.ghonix.tmk.U2694App;
 
 import javax.inject.Inject;
 
@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        TmkApp.get(this).inject(this);
+        U2694App.get(this).inject(this);
 
         container = appContainer.get(this, application);
         getLayoutInflater().inflate(R.layout.activity_main, container);

@@ -9,7 +9,7 @@ import hugo.weaving.DebugLog;
 /**
  * Created by aghoneim on 8/8/14.
  */
-public class TmkApp extends Application {
+public class U2694App extends Application {
     private ObjectGraph objectGraph;
 
 
@@ -30,8 +30,8 @@ public class TmkApp extends Application {
         objectGraph.inject(o);
     }
 
-    public static TmkApp get(Context context) {
-        return (TmkApp) context.getApplicationContext();
+    public static U2694App get(Context context) {
+        return (U2694App) context.getApplicationContext();
     }
 
 }

@@ -1,12 +1,9 @@
 package com.ghonix.tmk;
 
-import com.ghonix.tmk.TmkApp;
-import com.ghonix.tmk.TmkModule;
-
 final class Modules {
-    static Object[] list(TmkApp app) {
+    static Object[] list(U2694App app) {
         return new Object[] {
-                new TmkModule(app)
+                new U2694Module(app)
         };
     }
 
